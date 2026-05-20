@@ -1,1 +1,3 @@
-pip install streamlit pytube yt-dlp
+streamlit 
+pytube 
+yt-dlp
